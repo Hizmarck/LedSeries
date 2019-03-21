@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For LedSeries
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LedSeries	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+turnOnAll	KEYWORD2
+turnOffAll	KEYWORD2
+red	KEYWORD2
+green	KEYWORD2
+blue	KEYWORD2
+next	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
